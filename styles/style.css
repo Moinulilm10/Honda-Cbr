@@ -1,0 +1,53 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+/* common styles */
+body {
+  font-family: "Poppins", sans-serif;
+}
+.honda-bg {
+  background-color: #264653;
+}
+/* navbar styles */
+
+/* showcase area styles */
+.header-head {
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 14px;
+}
+.header-details {
+  font-weight: 300;
+  font-size: 16px;
+  color: #e0e0e0;
+}
+.header-heading {
+  margin: 114px !important;
+}
+.header-img {
+  margin-right: 95px;
+  margin-top: 50px;
+}
+.user-img {
+  width: 150px;
+  height: 150px;
+}
+.fa-star.filled {
+  color: #e76f51;
+}
+.fa-star.empty {
+  color: #aeaeae;
+}
+.accordion-part {
+  margin-left: 150px !important;
+}
+/* button syles  */
+.honda-button {
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #e76f51;
+  color: #ffffff;
+  outline: none;
+  border: none;
+}
